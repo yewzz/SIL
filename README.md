@@ -1,6 +1,9 @@
 # A PyTorch Implementation of the Semantic Interaction Learning
 
-The code for the ACL 2023 paper “Weakly-Supervised Spoken Video Grounding via Semantic Interaction Learning”.
+The code for the ACL 2023 Oral [paper](https://aclanthology.org/2023.acl-long.611/) “Weakly-Supervised Spoken Video Grounding via Semantic Interaction Learning”.
+
+![图片1](https://github.com/yewzz/SIL/assets/133784833/9a852f2c-a36c-44ac-ad3d-0c349bab6d61)
+
 
 ### Requirements
 
